@@ -2,7 +2,7 @@
 
 ### A YouTube Media Downloader
 
-[![Release](https://img.shields.io/badge/Release-v2.0-blue?style=for-the-badge)](https://github.com/)
+[![Release](https://img.shields.io/badge/Release-v1.0-blue?style=for-the-badge)](https://github.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/)
 [![Aria2](https://img.shields.io/badge/aria2c-Optimized-A62627?style=for-the-badge)](https://aria2.github.io/)
 
